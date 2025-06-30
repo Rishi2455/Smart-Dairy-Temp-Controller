@@ -1,0 +1,7 @@
+Product,MinTemp,MaxTemp
+Milk,0,4
+Curd,1,4
+Butter,2,5
+Cheese,1,7
+Ice-Cream,-20,-18
+Flavored_Beverage,1,4
